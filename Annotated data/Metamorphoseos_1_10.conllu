@@ -1,0 +1,272 @@
+# sent_id = 1
+# text = In nova fert animus mutatas dicere formas corpora; di, coeptis (nam vos mutastis et illas) adspirate meis primaque ab origine mundi ad mea perpetuum deducite tempora carmen.
+1	In	in	ADP	_	_	8	case	_	_
+2	nova	nouus	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Plur	8	amod	_	_
+3	fert	fero	VERB	_	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	animus	animus	NOUN	_	Case=Nom|Gender=Masc|InflClass=IndEurO|Number=Sing	3	nsubj	_	_
+5	mutatas	muto	VERB	_	Aspect=Perf|Case=Acc|Gender=Fem|InflClass=LatA|InflClass[nominal]=IndEurA|Number=Plur|VerbForm=Part|Voice=Pass	7	acl	_	_
+6	dicere	dico	VERB	_	Aspect=Imp|Case=Acc|Gender=Neut|InflClass=LatX|InflClass[nominal]=Ind|Number=Sing|VerbForm=Inf|Voice=Act	3	ccomp	_	_
+7	formas	forma	NOUN	_	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Plur	6	obj	_	_
+8	corpora	corpus	NOUN	_	Case=Acc|Gender=Neut|InflClass=IndEurX|Number=Plur	5	obl	_	SpaceAfter=No
+9	;	;	PUNCT	_	_	20	punct	_	_
+10	di	deus	NOUN	_	Case=Nom|Gender=Masc|InflClass=IndEurO|Number=Plur	20	vocative	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	10	punct	_	_
+12	coeptis	coeno	VERB	_	Aspect=Perf|Case=Abl|Gender=Neut|InflClass=LatX|InflClass[nominal]=IndEurO|Number=Plur|VerbForm=Part|Voice=Pass	20	obl:arg	_	_
+13	(	(	PUNCT	_	_	16	punct	_	SpaceAfter=No
+14	nam	nam	PART	_	_	16	discourse	_	_
+15	vos	uos	PRON	_	Case=Nom|Gender=Masc|Number=Plur|Person=2|PronType=Prs	16	nsubj	_	_
+16	mutastis	monto	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	20	parataxis	_	_
+17	et	et	CCONJ	_	_	18	advmod:emph	_	_
+18	illas	ille	DET	_	Case=Acc|Gender=Fem|InflClass=LatPron|Number=Plur|PronType=Dem	16	obj	_	SpaceAfter=No
+19	)	)	PUNCT	_	_	16	punct	_	_
+20	adspirate	adspiro	VERB	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	3	conj	_	_
+21	meis	meus	DET	_	Case=Nom|Gender=Masc|Number=Plur|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	12	det	_	_
+22-23	primaque	_	_	_	_	_	_	_	_
+22	prima	prima	ADJ	_	Case=Gen|Gender=Masc|Number=Sing	25	amod	_	_
+23	que	que	CCONJ	_	_	30	cc	_	_
+24	ab	ab	ADP	_	AdpType=Prep	25	case	_	_
+25	origine	origo	NOUN	_	Case=Abl|Gender=Fem|InflClass=IndEurX|Number=Sing	29	obl	_	_
+26	mundi	mundus	NOUN	_	Case=Gen|Gender=Masc|InflClass=IndEurO|Number=Sing	25	nmod	_	_
+27	ad	ad	ADP	_	AdpType=Prep	31	case	_	_
+28	mea	meus	DET	_	Case=Acc|Gender=Neut|Number=Plur|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	31	det	_	_
+29	perpetuum	perpetuus	ADJ	_	Case=Acc|Gender=Neut|InflClass=IndEurO|Number=Sing	32	amod	_	_
+30	deducite	deducio	PART	_	Aspect=Imp|InflClass=LatI2|Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	20	conj	_	_
+31	tempora	tempus	NOUN	_	Case=Acc|Gender=Neut|InflClass=IndEurX|Number=Plur	29	obl	_	_
+32	carmen	carmen	NOUN	_	Case=Acc|Gender=Neut|InflClass=IndEurX|Number=Sing	30	obj	_	SpaceAfter=No
+33	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 2
+# text = Ante mare et terras et quod tegit omnia caelum unus erat toto naturae vultus in orbe, quem dixere chaos: rudis indigestaque moles nec quicquam nisi pondus iners congestaque eodem non bene iunctarum discordia semina rerum.
+1	Ante	ante	ADP	_	AdpType=Prep	2	case	_	_
+2	mare	mare	NOUN	_	Case=Acc|Gender=Neut|InflClass=IndEurI|Number=Sing	10	obl	_	_
+3	et	et	CCONJ	_	_	4	cc	_	_
+4	terras	terra	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	2	conj	_	_
+5	et	et	CCONJ	_	_	9	cc	_	_
+6	quod	qui	PRON	_	Case=Nom|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Rel	7	nsubj	_	_
+7	tegit	tego	VERB	_	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	acl:relcl	_	_
+8	omnia	omnis	DET	_	Case=Acc|Gender=Neut|InflClass=IndEurI|Number=Plur|PronType=Ind	7	obj	_	_
+9	caelum	caelum	NOUN	_	Case=Acc|Gender=Neut|InflClass=IndEurO|Number=Sing	2	conj	_	_
+10	unus	unus	NUM	_	Case=Nom|Gender=Masc|InflClass=LatPron|Number=Sing|NumType=Card	0	root	_	_
+11	erat	sum	AUX	_	InflClass=LatAnom|Number=Sing|VerbForm=Fin	10	cop	_	_
+12	toto	totus	DET	_	Case=Abl|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Ind	16	det	_	_
+13	naturae	natura	NOUN	_	Case=Gen|Gender=Fem|InflClass=IndEurA|Number=Sing	14	nmod	_	_
+14	vultus	uultus	NOUN	_	Case=Nom|Gender=Masc|InflClass=IndEurU|Number=Sing	10	nsubj	_	_
+15	in	in	ADP	_	AdpType=Prep	16	case	_	_
+16	orbe	orbis	NOUN	_	Case=Abl|Gender=Masc|InflClass=IndEurX|Number=Sing	10	obl	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	19	punct	_	_
+18	quem	qui	PRON	_	Case=Acc|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Rel	19	obj	_	_
+19	dixere	dixo	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Inf|Voice=Act	14	acl:relcl	_	_
+20	chaos	chaus	NOUN	_	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Plur	19	xcomp:pred	_	SpaceAfter=No
+21	:	:	PUNCT	_	_	25	punct	_	_
+22	rudis	rudio	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	25	conj	_	_
+23-24	indigestaque	_	_	_	_	_	_	_	_
+23	indigesta	indigesta	ADJ	_	_	25	amod	_	_
+24	que	que	CCONJ	_	Clitic=Yes	23	cc	_	_
+25	moles	moles	NOUN	_	Case=Nom|Gender=Fem|InflClass=IndEurI|Number=Sing	20	conj:expl	_	_
+26	nec	neque	CCONJ	_	Polarity=Neg	27	cc	_	_
+27	quicquam	quisquam	DET	_	Case=Nom|Compound=Yes|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Ind	25	conj	_	_
+28	nisi	nisi	SCONJ	_	_	29	mark	_	_
+29	pondus	pondus	NOUN	_	Case=Nom|Gender=Neut|InflClass=IndEurX|Number=Sing	27	advcl	_	_
+30	iners	iners	ADJ	_	Case=Nom|Gender=Masc|InflClass=IndEurO|Number=Sing	29	amod	_	_
+31-32	congestaque	_	_	_	_	_	_	_	_
+31	congesta	congero	VERB	_	Case=Gen|Gender=Masc|Number=Sing	38	acl	_	_
+32	que	que	CCONJ	_	Clitic=Yes	38	cc	_	_
+33	eodem	idem	DET	_	Case=Abl|Form=Emp|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Dem	36	advmod	_	_
+34	non	non	PART	_	Polarity=Neg	35	advmod:neg	_	_
+35	bene	bene	ADV	_	_	36	advmod	_	_
+36	iunctarum	iungo	VERB	_	Aspect=Perf|Case=Gen|Gender=Fem|InflClass=LatX|InflClass[nominal]=IndEurA|Number=Plur|VerbForm=Part|Voice=Pass	39	acl	_	_
+37	discordia	discors	ADJ	_	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Sing	31	conj	_	_
+38	semina	semen	NOUN	_	Case=Nom|Gender=Neut|InflClass=IndEurX|Number=Plur	29	conj	_	_
+39	rerum	res	NOUN	_	Case=Gen|Gender=Fem|InflClass=IndEurE|Number=Plur	38	nmod	_	SpaceAfter=No
+40	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 3
+# text = nullus adhuc mundo praebebat lumina Titan, nec nova crescendo reparabat cornua Phoebe, nec circumfuso pendebat in aere tellus ponderibus librata suis, nec bracchia longo margine terrarum porrexerat Amphitrite; utque aer, tellus illic et pontus et aether.
+1	nullus	nullus	DET	_	Case=Nom|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Ind	6	det	_	_
+2	adhuc	adhuc	ADV	_	_	4	advmod:tmod	_	_
+3	mundo	mundus	NOUN	_	Case=Dat|Gender=Masc|InflClass=IndEurO|Number=Sing	4	obl:arg	_	_
+4	praebebat	praebo	VERB	_	Aspect=Imp|InflClass=LatI2|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	lumina	lumen	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	4	obj	_	_
+6	Titan	Titan	PROPN	_	Case=Nom|Gender=Masc|InflClass=IndEurX|NameType=Ast|Number=Sing	4	nsubj	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	11	punct	_	_
+8	nec	nec	CCONJ	_	Polarity=Neg	11	cc	_	_
+9	nova	nouus	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Plur	12	amod	_	_
+10	crescendo	cresco	VERB	_	Aspect=Imp|Case=Abl|Gender=Neut|InflClass=LatX|InflClass[nominal]=IndEurO|Number=Sing|Tense=Fut|VerbForm=Ger|Voice=Pass	11	advcl	_	_
+11	reparabat	reparo	VERB	_	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	_
+12	cornua	cornu	NOUN	_	Case=Acc|Gender=Neut|InflClass=IndEurU|Number=Plur	11	obj	_	_
+13	Phoebe	phoebe	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	11	nsubj	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	11	punct	_	_
+15	nec	nec	CCONJ	_	_	17	cc	_	_
+16	circumfuso	circumfundo	VERB	_	Aspect=Perf|Case=Abl|Gender=Neut|InflClass=LatX|InflClass[nominal]=IndEurO|Number=Sing|VerbForm=Part|Voice=Pass	19	acl	_	_
+17	pendebat	pendo	VERB	_	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	_
+18	in	in	ADP	_	AdpType=Prep	19	case	_	_
+19	aere	aer	NOUN	_	Case=Abl|Gender=Masc|InflClass=IndEurX|Number=Sing	17	obl	_	_
+20	tellus	tellus	DET	_	Case=Nom|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Ind	17	nsubj	_	_
+21	ponderibus	ponder	NOUN	_	Case=Abl|Gender=Masc|InflClass=IndEurX|Number=Plur	22	obl:arg	_	_
+22	librata	libro	VERB	_	Aspect=Perf|Case=Abl|Gender=Fem|InflClass=LatA|InflClass[nominal]=IndEurA|Number=Sing|VerbForm=Part|Voice=Pass	17	advcl:pred	_	_
+23	suis	suus	DET	_	Case=Abl|Gender=Fem|InflClass=IndEurA|Number=Plur|Person[psor]=3|Poss=Yes|PronType=Prs|Reflex=Yes	21	det	_	SpaceAfter=No
+24	,	,	PUNCT	_	_	30	punct	_	_
+25	nec	nec	CCONJ	_	_	30	cc	_	_
+26	bracchia	bracchia	NOUN	_	Case=Abl|Gender=Fem|InflClass=IndEurA|NameType=Geo|Number=Sing|Proper=Yes	30	obj	_	_
+27	longo	longus	ADJ	_	Case=Abl|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Sing	28	amod	_	_
+28	margine	margo	NOUN	_	Case=Abl|Gender=Masc|InflClass=IndEurX|Number=Sing	30	obl:arg	_	_
+29	terrarum	terra	NOUN	_	Case=Gen|Gender=Masc|InflClass=IndEurA|Number=Plur	28	nmod	_	_
+30	porrexerat	porrigo	VERB	_	Aspect=Perf|InflClass=LatX|Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act	4	conj	_	_
+31	Amphitrite	Amphitredeus	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	30	nsubj	_	SpaceAfter=No
+32	;	;	PUNCT	_	_	37	punct	_	_
+33-34	utque	_	_	_	_	_	_	_	_
+33	ut	ut	SCONJ	_	_	35	mark	_	_
+34	que	que	CCONJ	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Ind	37	cc	_	_
+35	aer	aer	NOUN	_	Case=Nom|Gender=Masc|InflClass=IndEurX|Number=Sing	37	advcl:cmpr	_	SpaceAfter=No
+36	,	,	PUNCT	_	_	35	punct	_	_
+37	tellus	tellus	DET	_	Case=Nom|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Ind	4	conj	_	_
+38	illic	illic	ADV	_	PronType=Dem	37	advmod:lmod	_	_
+39	et	et	CCONJ	_	_	40	cc	_	_
+40	pontus	pontus	NOUN	_	Case=Nom|Gender=Masc|InflClass=IndEurU|Number=Plur	37	conj	_	_
+41	et	et	CCONJ	_	_	42	cc	_	_
+42	aether	aether	NOUN	_	Case=Nom|Gender=Masc|InflClass=IndEurO|Number=Sing	37	conj	_	SpaceAfter=No
+43	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 4
+# text = Sic erat instabilis tellus, innabilis unda, lucis egens aer: nulli sua forma manebat, obstabatque aliis aliud, quia corpore in uno frigida pugnabant calidis, umentia siccis, mollia cum duris, sine pondere habentia pondus.
+1	Sic	sic	ADV	_	PronType=Dem	3	advmod	_	_
+2	erat	sum	AUX	_	InflClass=LatAnom|Number=Sing|VerbForm=Fin	3	cop	_	_
+3	instabilis	instabilis	ADJ	_	Case=Nom|Gender=Fem|InflClass=IndEurI|Number=Sing	0	root	_	_
+4	tellus	tellus	NOUN	_	Case=Nom|Gender=Fem|InflClass=IndEurX|Number=Sing	3	nsubj	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	innabilis	innabilis	ADJ	_	Case=Nom|Gender=Fem|InflClass=IndEurI|Number=Sing	3	conj	_	_
+7	unda	undus	NOUN	_	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Sing	6	nsubj	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	10	punct	_	_
+9	lucis	lux	NOUN	_	Case=Abl|Gender=Fem|InflClass=IndEurX|Number=Plur	10	obl:arg	_	_
+10	egens	egeo	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|InflClass=LatE|InflClass[nominal]=IndEurI|Number=Sing|VerbForm=Part|Voice=Act	3	conj	_	_
+11	aer	aer	NOUN	_	Case=Nom|Gender=Masc|InflClass=IndEurX|Number=Sing	10	nsubj	_	SpaceAfter=No
+12	:	:	PUNCT	_	_	16	punct	_	_
+13	nulli	nullus	DET	_	Case=Dat|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Ind	15	nmod	_	_
+14	sua	suus	DET	_	Case=Abl|Gender=Fem|InflClass=IndEurA|Number=Sing|Person[psor]=3|Poss=Yes|PronType=Prs|Reflex=Yes	15	det	_	_
+15	forma	forma	NOUN	_	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Sing	16	nsubj	_	_
+16	manebat	maneo	VERB	_	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	conj:expl	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	18	punct	_	_
+18-19	obstabatque	_	_	_	_	_	_	_	_
+18	obstabat	obsto	VERB	_	_	16	conj	_	_
+19	que	que	CCONJ	_	_	18	cc	_	_
+20	aliis	alius	DET	_	Case=Dat|Gender=Neut|InflClass=LatPron|Number=Plur|PronType=Con	18	obl:arg	_	_
+21	aliud	alius	DET	_	Case=Nom|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Con	18	nsubj	_	SpaceAfter=No
+22	,	,	PUNCT	_	_	28	punct	_	_
+23	quia	quia	SCONJ	_	_	28	mark	_	_
+24	corpore	corpus	NOUN	_	Case=Abl|Gender=Neut|InflClass=IndEurX|Number=Sing	28	obl	_	_
+25	in	in	ADP	_	AdpType=Prep	24	case	_	_
+26	uno	unus	NUM	_	Case=Abl|Gender=Neut|InflClass=LatPron|Number=Sing|NumType=Card	24	nummod	_	_
+27	frigida	frigidus	ADJ	_	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Plur	28	nsubj	_	_
+28	pugnabant	pugno	VERB	_	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	16	advcl	_	_
+29	calidis	calidus	ADJ	_	Case=Dat|Gender=Neut|InflClass=IndEurO|Number=Plur	28	obl:arg	_	SpaceAfter=No
+30	,	,	PUNCT	_	_	31	punct	_	_
+31	umentia	umeo	VERB	_	Case=Nom|Gender=Neut|InflClass=IndEurI|Number=Plur	28	conj	_	_
+32	siccis	siccus	ADJ	_	Case=Dat|Gender=Fem|InflClass=IndEurA|Number=Plur	31	orphan	_	SpaceAfter=No
+33	,	,	PUNCT	_	_	34	punct	_	_
+34	mollia	mollis	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|InflClass=IndEurI|Number=Plur	28	conj	_	_
+35	cum	cum	ADP	_	AdpType=Prep	36	case	_	_
+36	duris	durus	ADJ	_	Case=Abl|Gender=Fem|InflClass=IndEurA|Number=Plur	34	orphan	_	SpaceAfter=No
+37	,	,	PUNCT	_	_	39	punct	_	_
+38	sine	sine	ADP	_	AdpType=Prep	39	case	_	_
+39	pondere	pondus	NOUN	_	Case=Abl|Gender=Neut|InflClass=IndEurX|Number=Sing	28	conj	_	_
+40	habentia	habeo	VERB	_	Aspect=Imp|Case=Nom|Gender=Neut|InflClass=LatE|InflClass[nominal]=IndEurI|Number=Plur|VerbForm=Part|Voice=Act	39	orphan	_	_
+41	pondus	pondus	NOUN	_	Case=Acc|Gender=Neut|InflClass=IndEurX|Number=Sing	40	obj	_	SpaceAfter=No
+42	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 5
+# text = Hanc deus et melior litem natura diremit.
+1	Hanc	hic	DET	_	Case=Acc|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Dem	5	det	_	_
+2	deus	deus	NOUN	_	Case=Nom|Gender=Masc|InflClass=IndEurO|Number=Sing	7	nsubj	_	_
+3	et	et	CCONJ	_	_	6	cc	_	_
+4	melior	bonus	ADJ	_	Case=Nom|Degree=Cmp|Gender=Fem|InflClass=IndEurX|Number=Sing	6	amod	_	_
+5	litem	lis	NOUN	_	Case=Acc|Gender=Fem|InflClass=IndEurI|Number=Sing	7	obj	_	_
+6	natura	natura	NOUN	_	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Sing	2	amod	_	_
+7	diremit	diremo	VERB	_	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 6
+# text = Nam caelo terras et terris abscidit undas, et liquidum spisso secrevit ab aere caelum.
+1	Nam	nam	PART	_	_	3	discourse	_	_
+2	caelo	caelum	NOUN	_	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing	3	orphan	_	_
+3	terras	terra	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	0	root	_	_
+4	et	et	CCONJ	_	_	6	cc	_	_
+5	terris	terra	NOUN	_	Case=Abl|Gender=Fem|Number=Plur	6	obl:arg	_	_
+6	abscidit	abscido	VERB	_	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	_
+7	undas	unda	NOUN	_	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Plur	6	obj	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	12	punct	_	_
+9	et	et	CCONJ	_	_	12	cc	_	_
+10	liquidum	liquidus	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	15	amod	_	_
+11	spisso	spissus	ADJ	_	Aspect=Perf|Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	14	amod	_	_
+12	secrevit	secerno	VERB	_	Aspect=Perf|InflClass=LatE|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	_
+13	ab	ab	ADP	_	AdpType=Prep	14	case	_	_
+14	aere	aer	NOUN	_	Case=Abl|Gender=Masc|InflClass=IndEurX|Number=Sing	12	obl:arg	_	_
+15	caelum	caelum	NOUN	_	Case=Acc|Gender=Neut|InflClass=IndEurO|Number=Sing	12	obj	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 7
+# text = Quae postquam evolvit caecoque exemit acervo, dissociata locis concordi pace ligavit.
+1	Quae	qui	PRON	_	Case=Acc|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Rel	3	obj	_	_
+2	postquam	postquam	SCONJ	_	_	13	mark	_	_
+3	evolvit	evolvo	VERB	_	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	acl:relcl	_	_
+4-5	caecoque	_	_	_	_	_	_	_	_
+4	caeco	caecus	ADJ	_	_	7	amod	_	_
+5	que	que	CCONJ	_	Clitic=Yes	6	cc	_	_
+6	exemit	eximo	VERB	_	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	_
+7	acervo	aceruus	ADJ	_	Case=Abl|Gender=Neut|Number=Sing	6	obl	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	3	punct	_	_
+9	dissociata	dissocio	VERB	_	Aspect=Perf|Case=Abl|Gender=Fem|InflClass=LatA|InflClass[nominal]=IndEurA|Number=Sing|VerbForm=Part|Voice=Pass	13	obj	_	_
+10	locis	locus	NOUN	_	Case=Abl|Gender=Masc|InflClass=IndEurO|Number=Plur	13	obl:arg	_	_
+11	concordi	concors	ADJ	_	Case=Nom|Gender=Masc|InflClass=IndEurO|Number=Plur	12	amod	_	_
+12	pace	pax	NOUN	_	Case=Abl|Gender=Fem|InflClass=IndEurX|Number=Sing	13	obl	_	_
+13	ligavit	ligo	VERB	_	Aspect=Perf|InflClass=LatA|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	13	punct	_	_
+
+# sent_id = 8
+# text = Ignea convexi vis et sine pondere caeli emicuit summaque locum sibi fecit in arce:
+1	Ignea	igneus	ADJ	_	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Plur	3	amod	_	_
+2	convexi	conuexus	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Sing	7	amod	_	_
+3	vis	uis	NOUN	_	Case=Nom|Gender=Fem|InflClass=IndEurI|Number=Sing	8	nsubj	_	_
+4	et	et	CCONJ	_	_	6	cc	_	_
+5	sine	sine	ADP	_	AdpType=Prep	6	case	_	_
+6	pondere	pondus	NOUN	_	Case=Abl|Gender=Neut|InflClass=IndEurX|Number=Sing	1	conj	_	_
+7	caeli	caelum	NOUN	_	Case=Gen|Gender=Neut|InflClass=IndEurO|Number=Sing	3	nmod	_	_
+8	emicuit	emico	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+9-10	summaque	_	_	_	_	_	_	_	_
+9	summa	super	ADJ	_	Case=Gen|Gender=Masc|Number=Sing	15	amod	_	_
+10	que	que	CCONJ	_	Clitic=Yes	13	cc	_	_
+11	locum	locus	NOUN	_	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Sing	13	obj	_	_
+12	sibi	se	PRON	_	Case=Dat|InflClass=LatAnom|PronType=Prs|Reflex=Yes	13	obl:arg	_	_
+13	fecit	facio	VERB	_	Aspect=Perf|InflClass=LatI2|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	conj	_	_
+14	in	in	ADP	_	AdpType=Prep	15	case	_	_
+15	arce	arx	NOUN	_	Case=Abl|Gender=Fem|InflClass=IndEurI|Number=Sing	13	obl:lmod	_	SpaceAfter=No
+16	:	:	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 9
+# text = proximus est aer illi levitate locoque:
+1	proximus	propior	ADJ	_	Case=Nom|Degree=Abs|Gender=Masc|InflClass=IndEurO|Number=Sing	0	root	_	_
+2	est	sum	AUX	_	InflClass=LatAnom|Number=Sing|VerbForm=Fin	1	cop	_	_
+3	aer	aer	NOUN	_	Case=Nom|Gender=Masc|InflClass=IndEurX|Number=Sing	1	nsubj	_	_
+4	illi	ille	DET	_	Case=Abl|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Dem	5	det	_	_
+5	levitate	levitas	NOUN	_	Case=Abl|Gender=Fem|InflClass=IndEurX|Number=Sing	1	obl	_	_
+6	loco	locus	NOUN	_	_	5	conj	_	SpaceAfter=No
+7	que	que	CCONJ	_	Clitic=Yes	6	cc	_	SpaceAfter=No
+8	:	:	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 10
+# text = densior his tellus, elementaque grandia traxit et pressa est gravitate sua:
+1	densior	densus	ADJ	_	Case=Nom|Degree=Cmp|Gender=Fem|InflClass=IndEurX|Number=Sing	0	root	_	_
+2	his	hic	DET	_	Case=Abl|Gender=Masc|InflClass=LatPron|Number=Plur|PronType=Dem	1	obl:cmpr	_	_
+3	tellus	tellus	NOUN	_	Case=Nom|Gender=Masc|InflClass=IndEurO|Number=Sing	1	nsubj	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	8	punct	_	_
+5-6	elementaque	_	_	_	_	_	_	_	_
+5	elementa	elementum	NOUN	_	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Plur	8	obj	_	_
+6	que	que	CCONJ	_	_	8	cc	_	_
+7	grandia	grandium	NOUN	_	Case=Acc|Gender=Neut|InflClass=IndEurO|Number=Plur	5	amod	_	_
+8	traxit	traho	VERB	_	Aspect=Perf|InflClass=LatX|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	_
+9	et	et	CCONJ	_	_	10	cc	_	_
+10	pressa	premo	VERB	_	Aspect=Perf|Case=Nom|Gender=Fem|InflClass=LatX|InflClass[nominal]=IndEurA|Number=Sing|VerbForm=Part|Voice=Pass	8	conj	_	_
+11	est	sum	AUX	_	InflClass=LatAnom|Number=Sing|VerbForm=Fin	10	aux:pass	_	_
+12	gravitate	gravitas	NOUN	_	Case=Abl|Gender=Fem|InflClass=IndEurX|Number=Sing	10	obl:agent	_	_
+13	sua	suus	DET	_	Case=Abl|Gender=Fem|InflClass=IndEurA|Number=Sing|Person[psor]=3|Poss=Yes|PronType=Prs|Reflex=Yes	12	det	_	SpaceAfter=No
+14	:	:	PUNCT	_	_	1	punct	_	_
+
